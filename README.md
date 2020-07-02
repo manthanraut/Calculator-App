@@ -5,8 +5,8 @@ This is a simple calculator app build using Java as base android programming lan
 <table>
   <tr>
     <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td>On entering value</td>
+     <td>Result display</td>
   </tr>
   <tr>
     <td><img src="image1.jpeg" width=270 height=480></td>
