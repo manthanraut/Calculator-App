@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\91027ea1d83019ff0035a4f5581e8835905196e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_f124de2056665032537bb0f80eebaa176ac58328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\f5f74f2f53c11611d2973d454cae3953b695d85f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_4861727537f3984ea053425e8b1dacd6ece24964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\005da62419cfec56d344c5048e260de6034ae1b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_34191222a5ddfc51942c60d83d552e387026854f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\ed60f12c4bfc8a5a84576044d552780d6caf0d1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_1efaaf1316c92c834ece4ef19087e82a978c24a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\5d5fe560297f4fd474519277fe14201dc69d4aa5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_6cea903865722c2ca91d9502c2cdd8ece6f581e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\e5b340eb5f89ee4491e783c4ab43888366444bbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_511b6e167abdd176e4894f656308cd63ee4bdd90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\eb87031cbd63aaeb981a3ed6c69fc65570c12666\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_668db9ce182b0160ed07261cf6b732c8fd40970e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\d6a6676fd7e8399664792d1e2d91c120a5bd667c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_4ff109933f037e00dfe8afd8254e1c8b093ce4a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\6ab7fe916a6367be5a01ab58e84847f709973ac6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_f5abfc6161a8da42ad5d2c5780b2926905d079f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_9354d31d241c42f90d3aea211211ac91244e2a0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\.android\build-cache\0ea409992ec00f1a20a5c9f77918808da9219d0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\classes_5caf11737913a512be9a2555309e2d50d42a4c8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\manth\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\manth\AndroidStudioProjects\Android Calculator APP\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_466ca3d80baf67a5dc9404cfd2a5fc330fa56632.jar" />
+    </item>
+
+</items>
